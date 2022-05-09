@@ -9,13 +9,13 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (1)
 
-[![Book cover of An Elegant Puzzle](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DAn%2520Elegant%2520Puzzle%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/deanbaker/books/issues/10 "An Elegant Puzzle by Will Larson")
 [![Book cover of Managing Humans](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Do3ykfQxl7pMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/1 "Managing Humans by Michael Lopp")
 
-### ✅ Completed (8)
+### ✅ Completed (9)
 
+[![Book cover of An Elegant Puzzle](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DAn%2520Elegant%2520Puzzle%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/deanbaker/books/issues/10 "An Elegant Puzzle by Will Larson completed in 2 minutes on May 2022")
 [![Book cover of The One Minute Manager](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DsxA9KMIJGZgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/9 "The One Minute Manager by Kenneth H. Blanchard, Spencer Johnson completed in 49 seconds on May 2022")
 [![Book cover of The First 90 Days, Updated and Expanded](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQGkHs4pExOQC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/8 "The First 90 Days, Updated and Expanded by Michael D. Watkins completed in 40 seconds on May 2022")
 [![Book cover of Atomic Habits](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXfFvDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/7 "Atomic Habits by James Clear completed in 2 minutes on May 2022")
