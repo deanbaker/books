@@ -1,5 +1,27 @@
 [
   {
+    "title": "An Elegant Puzzle",
+    "authors": [
+      "Will Larson"
+    ],
+    "publishedDate": "2019-05-28",
+    "description": "There's a saying that people don't leave companies, they leave managers. Management is a key part of any organization, yet the discipline is often self-taught and unstructured. Getting to the good solutions of complex management challenges can make the difference between fulfillment and frustration for teams, and, ultimately, the success or failure of companies.Will Larson's An Elegant Puzzle orients around the particular challenges of engineering management--from sizing teams to technical debt to succession planning--and provides a path to the good solutions. Drawing from his experience at Digg, Uber, and Stripe, Will Larson has developed a thoughtful approach to engineering management that leaders of all levels at companies of all sizes can apply. An Elegant Puzzle balances structured principles and human-centric thinking to help any leader create more effective and rewarding organizations for engineers to thrive in.",
+    "image": "https://tse2.mm.bing.net/th?q=An%20Elegant%20Puzzle%20by%20function%20join()%20%7B%20%5Bnative%20code%5D%20%7D&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "isbn10": "1732265186",
+    "isbn13": "9781732265189",
+    "googleBooks": {
+      "id": "2ZQrxQEACAAJ",
+      "preview": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+elegant+puzzle+by+will+larson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+elegant+puzzle+by+will+larson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/An_Elegant_Puzzle.html?hl=&id=2ZQrxQEACAAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-09T11:14:54.000Z"
+  },
+  {
     "title": "The One Minute Manager",
     "authors": [
       "Kenneth H. Blanchard",
@@ -26,8 +48,11 @@
     },
     "issueNumber": 9,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:13:21.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:13:21.000Z",
+    "completedAt": "2022-05-09T11:14:10.000Z",
+    "timeToComplete": 49000,
+    "timeToCompleteFormatted": "49 seconds"
   },
   {
     "title": "The First 90 Days, Updated and Expanded",
