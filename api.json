@@ -24,8 +24,11 @@
     },
     "issueNumber": 4,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:07:08.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:07:08.000Z",
+    "completedAt": "2022-05-09T11:10:01.000Z",
+    "timeToComplete": 173000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "Deep Work",
@@ -49,8 +52,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:06:33.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:06:33.000Z",
+    "completedAt": "2022-05-09T11:10:09.000Z",
+    "timeToComplete": 216000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "The Manager's Path",
