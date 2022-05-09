@@ -1,5 +1,35 @@
 [
   {
+    "title": "The One Minute Manager",
+    "authors": [
+      "Kenneth H. Blanchard",
+      "Spencer Johnson"
+    ],
+    "publisher": "Berkley Trade",
+    "publishedDate": "1983",
+    "description": "Details a simple, yet effective management system based on three fundamental strategies for earning raises, promotions, and power in business",
+    "image": "http://books.google.com/books/content?id=sxA9KMIJGZgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 19,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 111,
+    "isbn10": "0425098478",
+    "isbn13": "9780425098479",
+    "googleBooks": {
+      "id": "sxA9KMIJGZgC",
+      "preview": "http://books.google.com/books?id=sxA9KMIJGZgC&q=intitle:the+one+minute+manager+by+ken+blanchard+and+spencer+johnson&dq=intitle:the+one+minute+manager+by+ken+blanchard+and+spencer+johnson&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=sxA9KMIJGZgC&dq=intitle:the+one+minute+manager+by+ken+blanchard+and+spencer+johnson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_One_Minute_Manager.html?hl=&id=sxA9KMIJGZgC"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-09T11:13:21.000Z"
+  },
+  {
     "title": "The First 90 Days, Updated and Expanded",
     "authors": [
       "Michael D. Watkins"
@@ -25,8 +55,11 @@
     },
     "issueNumber": 8,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:12:57.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:12:57.000Z",
+    "completedAt": "2022-05-09T11:13:37.000Z",
+    "timeToComplete": 40000,
+    "timeToCompleteFormatted": "40 seconds"
   },
   {
     "title": "Atomic Habits",
