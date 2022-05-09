@@ -87,8 +87,11 @@
     },
     "issueNumber": 7,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:11:45.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:11:45.000Z",
+    "completedAt": "2022-05-09T11:13:48.000Z",
+    "timeToComplete": 123000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "Monolith to Microservices",
@@ -116,8 +119,11 @@
     },
     "issueNumber": 6,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:11:33.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:11:33.000Z",
+    "completedAt": "2022-05-09T11:14:01.000Z",
+    "timeToComplete": 148000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "The Subtle Art of Not Giving a F*ck",
