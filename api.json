@@ -1,5 +1,63 @@
 [
   {
+    "title": "Atomic Habits",
+    "authors": [
+      "James Clear"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2018-10-16",
+    "description": "The #1 New York Times bestseller. Over 4 million copies sold! Tiny Changes, Remarkable Results No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Learn how to: • make time for new habits (even when life gets crazy); • overcome a lack of motivation and willpower; • design your environment to make success easier; • get back on track when you fall off course; ...and much more. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+    "image": "http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 28,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 320,
+    "isbn10": "0735211299",
+    "isbn13": "9780735211292",
+    "googleBooks": {
+      "id": "XfFvDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=XfFvDwAAQBAJ&printsec=frontcover&dq=intitle:atomic+habits+by+james+clear&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:atomic+habits+by+james+clear&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Atomic_Habits.html?hl=&id=XfFvDwAAQBAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-09T11:11:45.000Z"
+  },
+  {
+    "title": "Monolith to Microservices",
+    "authors": [
+      "Sam Newman"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2019-11-14",
+    "description": "How do you detangle a monolithic system and migrate it to a microservice architecture? How do you do it while maintaining business-as-usual? As a companion to Sam Newman’s extremely popular Building Microservices, this new book details a proven method for transitioning an existing monolithic system to a microservice architecture. With many illustrative examples, insightful migration patterns, and a bevy of practical advice to transition your monolith enterprise into a microservice operation, this practical guide covers multiple scenarios and strategies for a successful migration, from initial planning all the way through application and database decomposition. You’ll learn several tried and tested patterns and techniques that you can use as you migrate your existing architecture. Ideal for organizations looking to transition to microservices, rather than rebuild Helps companies determine whether to migrate, when to migrate, and where to begin Addresses communication, integration, and the migration of legacy systems Discusses multiple migration patterns and where they apply Provides database migration examples, along with synchronization strategies Explores application decomposition, including several architectural refactoring patterns Delves into details of database decomposition, including the impact of breaking referential and transactional integrity, new failure modes, and more",
+    "image": "http://books.google.com/books/content?id=nNa_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 1,
+    "ratingsCount": 1,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 272,
+    "isbn10": "1492047813",
+    "isbn13": "9781492047810",
+    "googleBooks": {
+      "id": "nNa_DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=nNa_DwAAQBAJ&printsec=frontcover&dq=intitle:monolith+to+microservices+by+sam+newman&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=nNa_DwAAQBAJ&dq=intitle:monolith+to+microservices+by+sam+newman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Monolith_to_Microservices.html?hl=&id=nNa_DwAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-09T11:11:33.000Z"
+  },
+  {
     "title": "The Subtle Art of Not Giving a F*ck",
     "authors": [
       "Mark Manson"
@@ -25,8 +83,11 @@
     },
     "issueNumber": 5,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:11:18.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:11:18.000Z",
+    "completedAt": "2022-05-09T11:12:01.000Z",
+    "timeToComplete": 43000,
+    "timeToCompleteFormatted": "43 seconds"
   },
   {
     "title": "Team Topologies",
