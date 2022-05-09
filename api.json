@@ -78,8 +78,11 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-09T11:06:15.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-09T11:06:15.000Z",
+    "completedAt": "2022-05-09T11:08:45.000Z",
+    "timeToComplete": 150000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "Managing Humans",
