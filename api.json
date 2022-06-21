@@ -1,5 +1,33 @@
 [
   {
+    "title": "Radical Candor",
+    "authors": [
+      "Kim Scott"
+    ],
+    "publishedDate": "2017-03-14",
+    "description": "\"I raced through RADICAL CANDOR--It’s thrilling to learn a framework that shows how to be both a better boss and a better colleague. RADICAL CANDOR is packed with illuminating truths, insightful advice, and practical suggestions, all illustrated with engaging (and often funny) stories from Kim Scott’s own experiences at places like Apple, Google, and various start-ups. Indispensable.\"--Gretchen Rubin author of NYT bestseller THE HAPPINESS PROJECT \"Reading Radical Candor will help you build, lead, and inspire teams to do the best work of their lives. Kim Scott's insights--based on her experience, keen observational intelligence and analysis--will help you be a better leader and create a more effective organization.\"--Sheryl Sandberg author of the NYT bestseller LEAN IN \"Kim Scott has a well-earned reputation as a kick-ass boss and a voice that CEOs take seriously. In this remarkable book, she draws on her extensive experience to provide clear and honest guidance on the fundamentals of leading others: how to give (and receive) feedback, how to make smart decisions, how to keep moving forward, and much more. If you manage people?whether it be 1 person or a 1,000--you need RADICAL CANDOR. Now.\"--Daniel Pink author of NYT bestseller DRIVE From the time we learn to speak, we’re told that if you don’t have anything nice to say, don’t say anything at all. When you become a manager, it’s your job to say it--and your obligation. Author Kim Scott was an executive at Google and then at Apple, where she developed a class on how to be a good boss. She has earned growing fame in recent years with her vital new approach to effective management, Radical Candor. Radical Candor is a simple idea: to be a good boss, you have to Care Personally at the same time that you Challenge Directly. When you challenge without caring it’s obnoxious aggression; when you care without challenging it’s ruinous empathy. When you do neither it’s manipulative insincerity. This simple framework can help you build better relationships at work, and fulfill your three key responsibilities as a leader: creating a culture of feedback (praise and criticism), building a cohesive team, and achieving results you’re all proud of. Radical Candor offers a guide to those bewildered or exhausted by management, written for bosses and those who manage bosses. Taken from years of the author’s experience, and distilled clearly giving actionable lessons to the reader; it shows managers how to be successful while retaining their humanity, finding meaning in their job, and creating an environment where people both love their work and their colleagues.",
+    "image": "http://books.google.com/books/content?id=Q8INDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 4,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 272,
+    "isbn10": "1250103509",
+    "isbn13": "9781250103505",
+    "googleBooks": {
+      "id": "Q8INDgAAQBAJ",
+      "preview": "http://books.google.com/books?id=Q8INDgAAQBAJ&printsec=frontcover&dq=intitle:Radical+Candor:+Be+a+Kick-Ass+Boss+Without+Losing+Your+Humanity+by+Kim+Scott&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Q8INDgAAQBAJ&dq=intitle:Radical+Candor:+Be+a+Kick-Ass+Boss+Without+Losing+Your+Humanity+by+Kim+Scott&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Radical_Candor.html?hl=&id=Q8INDgAAQBAJ"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-21T00:10:42.000Z"
+  },
+  {
     "title": "An Elegant Puzzle",
     "authors": [
       "Will Larson"
