@@ -9,6 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![Book cover of Raising Girls With ADHD](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DvyhBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/12 "Raising Girls With ADHD by James W. Forgan, Mary Anne Richey")
+
 ### ✅ Completed (11)
 
 [![Book cover of Radical Candor](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQ8INDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/11 "Radical Candor by Kim Scott completed in 7 months on February 2023")
