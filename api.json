@@ -26,8 +26,11 @@
     },
     "issueNumber": 12,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-02-14T10:24:20.000Z"
+    "state": "completed",
+    "startedAt": "2023-02-14T10:24:20.000Z",
+    "completedAt": "2023-02-14T21:33:14.000Z",
+    "timeToComplete": 40134000,
+    "timeToCompleteFormatted": "11 hours"
   },
   {
     "title": "Radical Candor",
