@@ -24,8 +24,11 @@
     },
     "issueNumber": 11,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-21T00:10:42.000Z"
+    "state": "completed",
+    "startedAt": "2022-06-21T00:10:42.000Z",
+    "completedAt": "2023-02-14T10:23:07.000Z",
+    "timeToComplete": 20599945000,
+    "timeToCompleteFormatted": "7 months"
   },
   {
     "title": "An Elegant Puzzle",
