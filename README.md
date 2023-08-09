@@ -9,12 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ✅ Completed (13)
 
-[![Book cover of The DevOps Handbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dui8hDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/15 "The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis")
-
-### ✅ Completed (12)
-
+[![Book cover of The DevOps Handbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dui8hDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/15 "The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis completed in 5 minutes on August 2023")
 [![Book cover of Raising Girls With ADHD](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DvyhBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/12 "Raising Girls With ADHD by James W. Forgan, Mary Anne Richey completed in 11 hours on February 2023")
 [![Book cover of Radical Candor](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQ8INDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/11 "Radical Candor by Kim Scott completed in 7 months on February 2023")
 [![Book cover of An Elegant Puzzle](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DAn%2520Elegant%2520Puzzle%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/deanbaker/books/issues/10 "An Elegant Puzzle by Will Larson completed in 2 minutes on May 2022")

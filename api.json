@@ -28,8 +28,11 @@
     },
     "issueNumber": 15,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-08-09T10:53:35.000Z"
+    "state": "completed",
+    "startedAt": "2023-08-09T10:53:35.000Z",
+    "completedAt": "2023-08-09T10:59:15.000Z",
+    "timeToComplete": 340000,
+    "timeToCompleteFormatted": "5 minutes"
   },
   {
     "title": "Raising Girls With ADHD",
