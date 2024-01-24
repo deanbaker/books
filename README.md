@@ -9,6 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![Book cover of Number Go Up](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXHK0EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/16 "Number Go Up by Zeke Faux")
+
 ### ✅ Completed (13)
 
 [![Book cover of The DevOps Handbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dui8hDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/deanbaker/books/issues/15 "The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis completed in 5 minutes on August 2023")
